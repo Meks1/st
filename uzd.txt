@@ -1,1 +1,14 @@
+Monētu mešana un kauliņu mešana
 
+Funkcionalitāte:
+  1. Monēta ar nejaušu raksts vai ērglu pilienu
+  2. Spēles kauliņš ar stundu metienu no 1 līdz 6
+  3. Iespēja pārslēgt režīmu uz kubu vai monētu
+
+Interfeisa elementi:
+  1. Atkarībā no spēles režīma ekrāna vidū jābūt monētai vai kubam
+  2. Zem monētas vai kuba ir jābūt pogai, lai aktivizētu animāciju vai aprēķinātu nejaušu vērtību
+  3. Augšējā labajā pusē jābūt pogai, lai pārslēgtu režīmu no kuba uz monētu un otrādi
+
+Ievaddati:
+  1. Varbūtība iegūt rezultātu uz monētas vai kauliņa
